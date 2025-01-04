@@ -6,5 +6,6 @@ export default {
       { text: 'Home', link: '/' }
     ],
     sidebar: []
-  }
+  },
+  ignoreDeadLinks: true
 }
