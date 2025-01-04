@@ -26,7 +26,7 @@ SirenAI 是 [SillyTavern](https://github.com/SillyTavern/SillyTavern) 的一个�
 
 ## 特别感谢
 
-- 项目发起人与维护者 [云在溪]("https://zaixi.dev")
+- 项目发起人与维护者 [云在溪](https://zaixi.dev)
 - [类脑](https://www.ainb.art) 社区
 - [似人](https://www.ainb.art) 社区
 - 所有贡献者和支持者
