@@ -2,6 +2,8 @@ export default {
   title: 'SirenAI Docs',
   description: 'Documentation for SirenAI',
   lang: 'zh-CN',
+  base: '/',
+  cleanUrls: true,
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' }
