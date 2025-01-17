@@ -1,30 +1,40 @@
 # Technical Architecture
 
-## Overview
+::: tip Overview
 This document outlines the technical architecture decisions and technology stack choices for our project.
+:::
 
 ## Technology Stack
 
-### Objectives
-- Ultimate Frontend Performance
+### 🎯 Objectives
+
+::: info Performance & Experience
+- ⚡️ Ultimate Frontend Performance
   - Full FPS across all platforms
   - Ultra-low latency
   - Comprehensive offline support
-- Maximum Data Security
+:::
+
+::: info Security & Privacy
+- 🔒 Maximum Data Security
   - End-to-end encryption
   - Local encryption
   - Multi-layer password protection
-- Cross-Platform Support
+:::
+
+::: info Cross-Platform
+- 📱 Cross-Platform Support
   - Mobile: Android, iOS
   - Desktop: Windows, MacOS, Linux
-- Cross-Platform Sync
+- 🔄 Cross-Platform Sync
   - End-to-end encrypted synchronization
   - Based on custom log-based sync engine
-- Internationalization
+- 🌍 Internationalization
   - Built with Flutter intl
   - Full multi-language support
+:::
 
-### Frontend
+### 💫 Frontend
 - Framework: Flutter
   - Chosen for optimal native performance
   - True cross-platform compatibility
@@ -37,14 +47,14 @@ This document outlines the technical architecture decisions and technology stack
   - Superior performance compared to SQLite
 - Internationalization: Flutter intl
 
-### Backend
+### 🔧 Backend
 - Development Language: TypeScript/Node.js
 - Framework: NestJS
 - Database: PostgreSQL
 - ORM: TypeORM
 - Authentication: Email-based authentication system
 
-### DevOps & Infrastructure
+### 🛠️ DevOps & Infrastructure
 - Version Control: Git
 - CI/CD: GitHub Actions
 - Deployment: Docker Compose
