@@ -1,12 +1,4 @@
-# SirenAI Documentation
-
-[English](./en/index.md) | [中文](./zh/index.md)
-
-Welcome to SirenAI documentation. Please select your preferred language above.
-
----
-
-欢迎访问 SirenAI 文档。请在上方选择您偏好的语言。
+# SirenAI
 
 ::: warning 开发状态
 ⚠️ 本项目正在积极开发中，目前处于初始阶段。
@@ -31,15 +23,18 @@ SirenAI 是 [SillyTavern](https://github.com/SillyTavern/SillyTavern) 的一个�
 - 🔒 大幅提升安全性
 - 🔄 同时尽可能确保兼容性
 
+## 技术文档
+
+- [技术架构](./technical-architecture.md)
+
 ## 加入我们
 
 欢迎访问我们的 [GitHub 仓库](https://github.com/yunzaixi-dev/sirenai)，参与项目开发！
 
-以及我们的开发社区[SirenAI](https://discord.gg/mBD77vwUCB)
+以及我们的开发社区 [SirenAI](https://discord.gg/mBD77vwUCB)
 
 ## 特别感谢
 
 - 项目发起人与维护者 [云在溪](https://zaixi.dev)
 - [类脑](https://discord.gg/bNmEB4SK9h) 社区
 - [似人](https://discord.gg/f6VfJU86SQ) 社区
-- 所有贡献者和支持者
