@@ -39,9 +39,9 @@ SirenAI 是 [SillyTavern](https://github.com/SillyTavern/SillyTavern) 的一个�
 - [类脑](https://discord.gg/bNmEB4SK9h) 社区
 - [似人](https://discord.gg/f6VfJU86SQ) 社区
 
-# SirenAI 文档
-
 [English](/en/) | 简体中文
+
+# SirenAI 文档
 
 ::: tip 介绍
 SirenAI 是一个开源的 AI 助手项目，专注于提供安全、私密且高效的 AI 对话体验。

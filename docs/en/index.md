@@ -1,3 +1,5 @@
+English | [简体中文](/zh/)
+
 # SirenAI
 
 ::: warning Development Status
@@ -38,8 +40,6 @@ Join our development community [SirenAI](https://discord.gg/mBD77vwUCB)
 - Project initiator and maintainer [Zaixi](https://zaixi.dev)
 - [LeiNao](https://discord.gg/bNmEB4SK9h) Community
 - [SiRen](https://discord.gg/f6VfJU86SQ) Community
-
-English | [简体中文](/zh/)
 
 ::: tip Introduction
 SirenAI is an open-source AI assistant project focused on providing secure, private, and efficient AI conversation experiences.
