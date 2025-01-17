@@ -38,3 +38,30 @@ SirenAI 是 [SillyTavern](https://github.com/SillyTavern/SillyTavern) 的一个�
 - 项目发起人与维护者 [云在溪](https://zaixi.dev)
 - [类脑](https://discord.gg/bNmEB4SK9h) 社区
 - [似人](https://discord.gg/f6VfJU86SQ) 社区
+
+# SirenAI 文档
+
+[English](/en/) | 简体中文
+
+::: tip 介绍
+SirenAI 是一个开源的 AI 助手项目，专注于提供安全、私密且高效的 AI 对话体验。
+:::
+
+## 快速开始
+
+- [技术架构](./technical-architecture.md)
+- [开发计划](./development-plan.md)
+
+## 特性
+
+- 🔒 端到端加密
+- 💫 离线优先
+- 🚀 高性能
+- 🌐 跨平台支持
+
+## 参与贡献
+
+我们欢迎所有形式的贡献，无论是代码、文档还是想法！
+
+- 查看[开发计划](./development-plan.md)了解如何参与
+- 在 [GitHub](https://github.com/yunzaixi-dev/sirenai-docs) 上提交 Issue 或 PR

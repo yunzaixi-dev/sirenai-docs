@@ -38,3 +38,28 @@ Join our development community [SirenAI](https://discord.gg/mBD77vwUCB)
 - Project initiator and maintainer [Zaixi](https://zaixi.dev)
 - [LeiNao](https://discord.gg/bNmEB4SK9h) Community
 - [SiRen](https://discord.gg/f6VfJU86SQ) Community
+
+English | [简体中文](/zh/)
+
+::: tip Introduction
+SirenAI is an open-source AI assistant project focused on providing secure, private, and efficient AI conversation experiences.
+:::
+
+## Quick Start
+
+- [Technical Architecture](./technical-architecture.md)
+- [Development Plan](./development-plan.md)
+
+## Features
+
+- 🔒 End-to-End Encryption
+- 💫 Offline First
+- 🚀 High Performance
+- 🌐 Cross-Platform Support
+
+## Contributing
+
+We welcome all forms of contributions, whether it's code, documentation, or ideas!
+
+- Check out the [Development Plan](./development-plan.md) to learn how to contribute
+- Submit Issues or PRs on [GitHub](https://github.com/yunzaixi-dev/sirenai-docs)
