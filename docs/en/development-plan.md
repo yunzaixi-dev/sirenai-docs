@@ -1,147 +1,151 @@
 # Development Plan
 
 ::: tip Overview
-This document details the development roadmap and implementation plan for the SirenAI project.
+This document outlines the development roadmap for the SirenAI open-source project. As a community-driven project, we welcome all developers to contribute!
 :::
 
-## Project Phases
+## How to Contribute
 
-### 📱 Phase 1: Foundation Framework (Q1 2025)
+### 🤝 Getting Started
 
-::: info Core Objectives
-Establish the basic application framework and implement core functionality localization.
+::: info Start Contributing
+1. Fork the repository
+2. Create a feature branch
+3. Submit changes
+4. Create a Pull Request
+:::
+
+### 👥 Community Guidelines
+
+- Follow the [Contributor Covenant](https://www.contributor-covenant.org/version/2/0/code_of_conduct/)
+- Use English for Git commits
+- PR descriptions should clearly explain changes
+- Important changes must include test cases
+
+## Project Milestones
+
+### 📱 Alpha Phase: Foundation Framework
+
+::: info Objective
+Establish the basic application framework and implement core functionality localization. Join us in these tasks!
 :::
 
 #### Frontend Tasks
-| Task | Priority | Est. Time | Description |
-|------|----------|-----------|-------------|
-| Flutter Project Setup | P0 | 1 week | Setup basic project structure and dev environment |
-| Data Encryption Implementation | P0 | 2 weeks | Implement E2E and local data encryption |
-| Basic UI Framework | P1 | 2 weeks | Implement main page layouts and navigation |
-| Local Database Integration | P1 | 2 weeks | Integrate Objectbox, implement data models |
+| Task | Status | Difficulty | Description |
+|------|--------|------------|-------------|
+| Flutter Project Setup | Available | 🟢 Easy | Setup basic project structure and dev environment |
+| Data Encryption Implementation | Available | 🔴 Hard | Implement E2E and local data encryption |
+| Basic UI Framework | Available | 🟡 Medium | Implement main page layouts and navigation |
+| Local Database Integration | Available | 🟡 Medium | Integrate Objectbox, implement data models |
 
 #### Backend Tasks
-| Task | Priority | Est. Time | Description |
-|------|----------|-----------|-------------|
-| NestJS Project Setup | P0 | 1 week | Establish basic project structure |
-| User Authentication System | P0 | 2 weeks | Implement email login system |
-| Database Design | P1 | 1 week | Design and implement database schema |
+| Task | Status | Difficulty | Description |
+|------|--------|------------|-------------|
+| NestJS Project Setup | Available | 🟢 Easy | Establish basic project structure |
+| User Authentication System | Available | 🟡 Medium | Implement email login system |
+| Database Design | Available | 🟡 Medium | Design and implement database schema |
 
-### 💫 Phase 2: Core Features (Q2 2025)
+### 💫 Beta Phase: Core Features
 
-::: info Core Objectives
+::: info Objective
 Implement key business features and establish basic user experience.
 :::
 
 #### Frontend Tasks
-| Task | Priority | Est. Time | Description |
-|------|----------|-----------|-------------|
-| Chat Interface Implementation | P0 | 3 weeks | Implement basic chat functionality |
-| Character Management System | P0 | 2 weeks | Implement character creation and management |
-| Offline Mode Support | P1 | 2 weeks | Implement complete offline functionality |
-| Multi-language Support | P1 | 1 week | Implement internationalization framework |
+| Task | Status | Difficulty | Description |
+|------|--------|------------|-------------|
+| Chat Interface Implementation | Available | 🟡 Medium | Implement basic chat functionality |
+| Character Management System | Available | 🟡 Medium | Implement character creation and management |
+| Offline Mode Support | Available | 🔴 Hard | Implement complete offline functionality |
+| Multi-language Support | Available | 🟢 Easy | Implement internationalization framework |
 
 #### Backend Tasks
-| Task | Priority | Est. Time | Description |
-|------|----------|-----------|-------------|
-| Data Sync Service | P0 | 3 weeks | Implement E2E encrypted data synchronization |
-| API Optimization | P1 | 2 weeks | Optimize API performance and structure |
+| Task | Status | Difficulty | Description |
+|------|--------|------------|-------------|
+| Data Sync Service | Available | 🔴 Hard | Implement E2E encrypted data synchronization |
+| API Optimization | Available | 🟡 Medium | Optimize API performance and structure |
 
-### 🚀 Phase 3: Performance Optimization (Q3 2025)
+### 🚀 Release Phase: Optimization
 
-::: info Core Objectives
+::: info Objective
 Optimize application performance and enhance user experience.
 :::
 
 #### Performance Tasks
-| Task | Priority | Est. Time | Description |
-|------|----------|-----------|-------------|
-| Launch Performance | P0 | 2 weeks | Optimize app startup time |
-| Memory Optimization | P0 | 2 weeks | Optimize memory usage |
-| Battery Optimization | P1 | 1 week | Optimize battery consumption |
+| Task | Status | Difficulty | Description |
+|------|--------|------------|-------------|
+| Launch Performance | Available | 🟡 Medium | Optimize app startup time |
+| Memory Optimization | Available | 🔴 Hard | Optimize memory usage |
+| Battery Optimization | Available | 🟡 Medium | Optimize battery consumption |
 
 #### Experience Tasks
-| Task | Priority | Est. Time | Description |
-|------|----------|-----------|-------------|
-| UI/UX Enhancement | P0 | 3 weeks | Optimize interface interactions |
-| Animation Effects | P1 | 2 weeks | Add smooth transition animations |
+| Task | Status | Difficulty | Description |
+|------|--------|------------|-------------|
+| UI/UX Enhancement | Available | 🟡 Medium | Optimize interface interactions |
+| Animation Effects | Available | 🟢 Easy | Add smooth transition animations |
 
-### 🔒 Phase 4: Security & Stability (Q4 2025)
-
-::: info Core Objectives
-Strengthen security and improve application stability.
-:::
-
-#### Security Tasks
-| Task | Priority | Est. Time | Description |
-|------|----------|-----------|-------------|
-| Security Audit | P0 | 2 weeks | Comprehensive security check |
-| Vulnerability Fixes | P0 | 2 weeks | Fix discovered security issues |
-| Biometric Auth | P1 | 1 week | Add biometric authentication |
-
-#### Stability Tasks
-| Task | Priority | Est. Time | Description |
-|------|----------|-----------|-------------|
-| Automated Testing | P0 | 3 weeks | Establish complete test suite |
-| Error Handling | P0 | 2 weeks | Optimize error handling mechanisms |
-| Monitoring System | P1 | 2 weeks | Implement application monitoring |
-
-## Development Standards
+## Development Guide
 
 ### 📋 Code Standards
 - Follow Flutter official code style guidelines
-- Adhere to Clean Architecture principles
-- All code must pass static analysis tools
-- Critical features must have unit test coverage
+- Use Clean Architecture principles
+- Code must pass static analysis
+- Critical features need unit tests
 
 ### 🔄 Workflow
-1. Feature Development
+1. Issue Discussion
+   - Discuss features or issues in Issues
+   - Wait for community feedback
+   - Claim tasks
+
+2. Development Process
+   - Fork and clone project
    - Create feature branch
    - Write code and tests
-   - Submit PR request
-2. Code Review
-   - At least one team member review
-   - Ensure test coverage
-3. Merge & Deploy
+   - Submit PR
+
+3. Review Process
+   - Wait for maintainer review
+   - Address feedback
    - Merge to main branch
-   - Automated deployment
 
-### 📈 Progress Tracking
-- Weekly progress updates
-- Bi-weekly iteration planning
-- Monthly milestone reviews
+### 📢 Communication Channels
+- GitHub Issues: Bug reports and feature requests
+- GitHub Discussions: General discussions
+- Discord: Real-time chat
 
-## Risk Management
+## Future Plans
 
-::: warning Potential Risks
-1. Technical Risks
+::: warning Todo List
+1. Technical Improvements
    - Flutter framework updates
-   - Performance bottlenecks
-   - Cross-platform compatibility issues
+   - Performance optimization
+   - Cross-platform compatibility
 
-2. Project Risks
-   - Schedule delays
-   - Resource constraints
-   - Requirement changes
+2. Feature Expansion
+   - More AI model support
+   - Plugin system
+   - API extensions
 
-3. Operational Risks
-   - User adoption
-   - Competition impact
-   - Market changes
+3. Community Building
+   - Documentation improvements
+   - Example code
+   - Contributor guidelines
 :::
 
-### Mitigation Strategies
-1. Technical Risk Mitigation
-   - Keep tech stack updated
-   - Early performance testing
-   - Thorough compatibility testing
+### Ways to Contribute
+1. Code Contributions
+   - Bug fixes
+   - New features
+   - Documentation improvements
 
-2. Project Risk Mitigation
-   - Reasonable buffer time
-   - Flexible resource allocation
-   - Agile development methods
+2. Non-Code Contributions
+   - Issue reporting
+   - Feature suggestions
+   - Documentation translation
+   - Community support
 
-3. Operational Risk Mitigation
-   - User feedback collection
-   - Market research
-   - Rapid iteration response
+3. Promotion Help
+   - Share the project
+   - Write tutorials
+   - Provide feedback
