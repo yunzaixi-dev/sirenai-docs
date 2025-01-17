@@ -19,7 +19,8 @@ export default {
     
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Technical Architecture', link: '/en/technical-architecture' }
+      { text: 'Technical Architecture', link: '/en/technical-architecture' },
+      { text: 'Development Plan', link: '/en/development-plan' }
     ],
 
     sidebar: {
@@ -28,7 +29,8 @@ export default {
           text: 'Guide',
           items: [
             { text: 'Introduction', link: '/en/' },
-            { text: 'Technical Architecture', link: '/en/technical-architecture' }
+            { text: 'Technical Architecture', link: '/en/technical-architecture' },
+            { text: 'Development Plan', link: '/en/development-plan' }
           ]
         }
       ],
@@ -37,7 +39,8 @@ export default {
           text: '指南',
           items: [
             { text: '介绍', link: '/zh/' },
-            { text: '技术架构', link: '/zh/technical-architecture' }
+            { text: '技术架构', link: '/zh/technical-architecture' },
+            { text: '开发计划', link: '/zh/development-plan' }
           ]
         }
       ]
