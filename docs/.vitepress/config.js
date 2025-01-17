@@ -15,13 +15,15 @@ export default {
   },
 
   themeConfig: {
+    siteTitle: 'SirenAI Docs',
+    
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Technical Architecture', link: '/en/technical-architecture' }
     ],
 
     sidebar: {
-      '/en/': [
+      '/': [
         {
           text: 'Guide',
           items: [
@@ -43,7 +45,17 @@ export default {
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/yunzaixi-dev/sirenai-docs' }
-    ]
+    ],
+
+    // 确保显示侧边栏
+    aside: true,
+    outline: 'deep',
+    
+    // 本地化
+    docFooter: {
+      prev: '上一页',
+      next: '下一页'
+    }
   },
   
   cleanUrls: true,
