@@ -1,5 +1,9 @@
 # SirenAI Documentation
 
+<div style="text-align: center">
+  <img src="/images/logo-v8.png" alt="SirenAI Logo" style="width: 200px; margin: 20px 0;">
+</div>
+
 [English](./en/index.md) | [中文](./zh/index.md)
 
 Welcome to SirenAI documentation. Please select your preferred language above.
