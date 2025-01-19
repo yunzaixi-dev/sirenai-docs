@@ -20,7 +20,8 @@ export default {
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Technical Architecture', link: '/en/technical-architecture' },
-      { text: 'Development Plan', link: '/en/development-plan' }
+      { text: 'Development Plan', link: '/en/development-plan' },
+      { text: 'API', link: '/en/api/auth' }
     ],
 
     sidebar: {
@@ -32,6 +33,12 @@ export default {
             { text: 'Technical Architecture', link: '/en/technical-architecture' },
             { text: 'Development Plan', link: '/en/development-plan' }
           ]
+        },
+        {
+          text: 'API Reference',
+          items: [
+            { text: 'Authentication', link: '/en/api/auth' }
+          ]
         }
       ],
       '/zh/': [
@@ -41,6 +48,12 @@ export default {
             { text: '介绍', link: '/zh/' },
             { text: '技术架构', link: '/zh/technical-architecture' },
             { text: '开发计划', link: '/zh/development-plan' }
+          ]
+        },
+        {
+          text: 'API 参考',
+          items: [
+            { text: '认证接口', link: '/zh/api/auth' }
           ]
         }
       ]
