@@ -16,7 +16,7 @@ export default {
 
   themeConfig: {
     logo: '/images/logo-v8.png',
-    siteTitle: 'SirenAI Docs',
+    siteTitle: 'docs.sirenai.org',
     
     nav: [
       { text: 'Home', link: '/' },
