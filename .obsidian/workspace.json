@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "26dcf4029cc3e10e",
+        "id": "1c6e412d487591b6",
         "type": "tabs",
         "children": [
           {
-            "id": "fd5847b616606111",
+            "id": "ac5d161ed6ea08f2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "docs/zh/development-plan.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2025-01-21 15.23.16.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "development-plan"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-01-21 15.23.16.excalidraw"
             }
           }
         ]
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/zh/development-plan.md",
+                "file": "Excalidraw/Drawing 2025-01-21 15.23.16.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +101,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "development-plan 的反向連結"
+              "title": "Drawing 2025-01-21 15.23.16.excalidraw 的反向連結"
             }
           },
           {
@@ -112,12 +110,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/zh/development-plan.md",
+                "file": "Excalidraw/Drawing 2025-01-21 15.23.16.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "development-plan 的對外連結"
+              "title": "Drawing 2025-01-21 15.23.16.excalidraw 的對外連結"
             }
           },
           {
@@ -139,10 +137,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/zh/development-plan.md"
+                "file": "Excalidraw/Drawing 2025-01-21 15.23.16.excalidraw.md"
               },
               "icon": "lucide-list",
-              "title": "development-plan 的大綱"
+              "title": "Drawing 2025-01-21 15.23.16.excalidraw 的大綱"
             }
           },
           {
@@ -171,12 +169,19 @@
       "templates:插入模板": false,
       "command-palette:開啟命令面板": false,
       "markdown-importer:開啟 Markdown 格式轉換器": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6b00b031836bc399",
+  "active": "ac5d161ed6ea08f2",
   "lastOpenFiles": [
+    "logo-v8.png",
+    "Excalidraw/Drawing 2025-01-21 15.23.16.excalidraw.svg",
+    "Excalidraw/Drawing 2025-01-21 15.23.16.excalidraw.md",
+    "Excalidraw/Drawing 2025-01-21 15.27.48.excalidraw.md",
     "docs/zh/development-plan.md",
+    "Excalidraw/Drawing 2025-01-21 15.27.49.excalidraw.md",
+    "Excalidraw",
     "docs/zh/api/auth.md",
     "docs/zh/technical-architecture.md",
     "docs/zh/index.md"
