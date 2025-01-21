@@ -11,10 +11,14 @@
             "id": "fd5847b616606111",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "docs/zh/development-plan.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新分頁"
+              "title": "development-plan"
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/zh/development-plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向連結"
+              "title": "development-plan 的反向連結"
             }
           },
           {
@@ -107,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/zh/development-plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "對外連結"
+              "title": "development-plan 的對外連結"
             }
           },
           {
@@ -132,17 +138,29 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "docs/zh/development-plan.md"
+              },
               "icon": "lucide-list",
-              "title": "大綱"
+              "title": "development-plan 的大綱"
+            }
+          },
+          {
+            "id": "6b00b031836bc399",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,9 +169,16 @@
       "canvas:建立新畫布": false,
       "daily-notes:開啟今天的每日筆記": false,
       "templates:插入模板": false,
-      "command-palette:開啟命令面板": false
+      "command-palette:開啟命令面板": false,
+      "markdown-importer:開啟 Markdown 格式轉換器": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fd5847b616606111",
-  "lastOpenFiles": []
+  "active": "6b00b031836bc399",
+  "lastOpenFiles": [
+    "docs/zh/development-plan.md",
+    "docs/zh/api/auth.md",
+    "docs/zh/technical-architecture.md",
+    "docs/zh/index.md"
+  ]
 }
