@@ -4,10 +4,6 @@
 本文档概述了 SirenAI 开源项目的开发路线图
 :::
 
-## 项目里程碑
-
-### 📱 Alpha 阶段：基础UI框架
-
-::: info 目标
-建立基础的应用框架
-:::
+<div style="text-align: center">
+  <img src="/images/Drawing 2025-01-21 15.23.16.excalidraw.svg" alt="SirenAI Logo" style="width: 200px; margin: 20px 0;">
+</div>
