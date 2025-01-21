@@ -11,52 +11,52 @@
 ::: info 性能与体验
 - ⚡️ 极致的前端性能
   - 全平台满帧
-  - 超低延迟
-  - 离线支持
+  - 端侧运算优先
 :::
 
 ::: info 安全与隐私
 - 🔒 极致的数据安全性
-  - 端对端加密
+  - 同步加密
   - 本地加密
-  - 多重密码保护
 :::
 
 ::: info 跨平台支持
 - 📱 全平台支持
   - 移动端: Android/iOS
   - 桌面端: Windows/MacOS/Linux
-- 🔄 全平台端对端加密同步
-  - 基于为本项目定制的日志文件功能实现
+- 🔄 全平台加密同步
+  - 基于AES-256算法
 - 🌍 多语言支持
-  - 基于 Flutter intl
+  - 先支持简体中文/繁体中文/英文
 :::
 
-### 💫 前端技术
-| 技术 | 选择 | 说明 |
-|------|------|------|
-| 框架 | Flutter | 为了极致的用户体验 |
-| 开发语言 | Dart | Flutter 原生语言 |
-| 状态管理 | flutter_bloc/get_it | 依赖注入与状态管理解决方案 |
-| 本地数据库 | Objectbox | 目前唯一成熟的 Flutter 端侧向量数据库方案 |
-| 国际化 | Flutter intl | 完整的多语言支持 |
+### 💫 前端技术栈
 
-### 🔧 后端技术
-| 技术 | 选择 | 说明 |
-|------|------|------|
-| 开发语言 | TypeScript/Node.js | 类型安全的服务端开发 |
-| 框架 | NestJS | 企业级 Node.js 框架 |
-| 数据库 | PostgresSQL | 可靠的关系型数据库 |
-| ORM | TypeORM | TypeScript 优先的 ORM |
-| 认证 | Email Auth | 使用传统的邮件登录 |
+| 技术    | 选择                  | 为什么                 |
+| ----- | ------------------- | ------------------- |
+| 框架    | Flutter             | 使用Flutter以提供极致的用户体验 |
+| 开发语言  | Dart                | 还是Flutter           |
+| 状态管理  | flutter_bloc/get_it | 依赖注入与状态管理解决方案       |
+| 本地数据库 | objectbox           | 向量数据库               |
+| 国际化   | Flutter intl        | 完整的多语言支持            |
+
+### 🔧 后端技术栈
+
+| 技术   | 选择          | 说明                 |
+| ---- | ----------- | ------------------ |
+| 框架   | NestJS      | what can i say     |
+| 开发语言 | Typescript  | what can i say     |
+| 数据库  | PostgresSQL | what can i say     |
+| ORM  | TypeORM     | TypeScript 优先的 ORM |
+| 认证   | Email Auth  | 使用传统的邮件登录          |
 
 ### 🛠️ DevOps 与基础设施
-| 技术 | 选择 |
-|------|------|
-| 版本控制 | Git |
+| 技术    | 选择             |
+| ----- | -------------- |
+| 版本控制  | Git            |
 | CI/CD | GitHub Actions |
-| 部署 | Docker Compose |
-| 云服务 | 路边的捡的 |
+| 部署    | Docker Compose |
+| 云服务   | 路边捡的           |
 
 ## 核心架构决策
 

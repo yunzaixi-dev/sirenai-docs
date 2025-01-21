@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "5d359f290ff195eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "490a62e1e8112ab5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a54c4333eaac39f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zh/technical-architecture.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "technical-architecture"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2ab4ce04e7e71f8e",
+    "type": "split",
+    "children": [
+      {
+        "id": "8485ce4a6ad1bb00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3658b3f4e253a9f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "檔案瀏覽器"
+            }
+          },
+          {
+            "id": "2105e09191fd5e95",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜尋"
+            }
+          },
+          {
+            "id": "fe3c2dac1803f86a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "書籤"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "73b7ec8a90a52782",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2537ad8656a792c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91d5c6457e21d990",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "zh/technical-architecture.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "technical-architecture 的反向連結"
+            }
+          },
+          {
+            "id": "303200a9fa40c9b3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "zh/technical-architecture.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "technical-architecture 的對外連結"
+            }
+          },
+          {
+            "id": "352ac6f85f8f4a32",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "標籤"
+            }
+          },
+          {
+            "id": "1e60db911263c5d3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "zh/technical-architecture.md"
+              },
+              "icon": "lucide-list",
+              "title": "technical-architecture 的大綱"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false
+    }
+  },
+  "active": "0a54c4333eaac39f",
+  "lastOpenFiles": [
+    "en/technical-architecture.md",
+    "zh/technical-architecture.md",
+    "zh/development-plan.md",
+    "zh/index.md",
+    "index.md",
+    "404.md",
+    "public/images/logo-v8.png",
+    "en/index.md",
+    "en/development-plan.md"
+  ]
+}
